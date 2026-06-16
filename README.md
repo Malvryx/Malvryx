@@ -1,45 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Dev%20Malvryx&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=DEV%20MALVRYX&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=Full-Stack+Engineer;Cyber+Security+%26+Network+Engineer;Software+Developer;Tech+Consultant;Founder+of+Malvryx+CodeLabs;Building+Technology+Without+Limits;Code+%E2%80%A2+Secure+%E2%80%A2+Engineer+%E2%80%A2+Repeat"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=600&color=A855F7&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=Full-Stack+Engineer;Cyber+Security+%26+Network+Engineer;Software+Developer;Tech+Consultant;Founder+of+Malvryx+CodeLabs;Building+Technology+Without+Limits;Code+%E2%80%A2+Secure+%E2%80%A2+Engineer+%E2%80%A2+Repeat"/>
 
 <img src="https://komarev.com/ghpvc/?username=Malvryx&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Malvryx?label=Followers&style=for-the-badge&color=8A2BE2"/>
+</div>
 
-<img src="https://img.shields.io/github/stars/Malvryx?style=for-the-badge&color=8A2BE2"/>
+
+<div align="center">
+
 
 </div>
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212259265-f7d3e8db-6d1f-4d95-89f1-4d53d1c0f0e5.gif" width="100%">
-</p>
-
 # 👋 Hey, I'm Dev Malvryx
 
 ```bash
-╭─────────────────────────────────────────────╮
-│               SYSTEM PROFILE               │
-├─────────────────────────────────────────────┤
-│ Alias      : Dev Malvryx                   │
-│ Origin     : Nigeria 🇳🇬                    │
-│ Identity   : Global Engineer 🌍            │
-│ Experience : 3+ Years                      │
-│ Focus      : Secure & Scalable Systems     │
-│ Mission    : Build Technology Worldwide    │
-╰─────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────╮
+│                    whoami                       │
+├──────────────────────────────────────────────────┤
+│ Alias      : Dev Malvryx                        │
+│ Origin     : Nigeria 🇳🇬                         │
+│ Identity   : Global Engineer 🌍                 │
+│ Experience : 3+ Years in the Cyber World        │
+│ Focus      : Secure & Scalable Systems          │
+│ Mission    : Build Technology Without Limits    │
+╰──────────────────────────────────────────────────╯
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-## 🌍 About Me
+# 🌍 About Me
 
-I am **Dev Malvryx**, a Nigerian engineer building technology for a global audience.
+I am a software engineer and cyber security enthusiast passionate about building technology that is secure, scalable, and impactful.
 
-I work at the intersection of:
+I work where:
 
 🛡️ Cyber Security
 💻 Full-Stack Engineering
@@ -49,49 +47,65 @@ I work at the intersection of:
 🚀 Open Source Development
 🧠 Technical Consulting
 
-I believe great software should be:
-
-**Secure. Scalable. Useful. Accessible.**
+meet to create systems that serve people worldwide.
 
 ---
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750847-7f55d7f2-5d52-45d6-ae74-cf7f7d9f73c1.gif" width="450">
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 # ⚡ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,bash,html,css,react,nextjs,nodejs,express,django,flask,mysql,postgres,mongodb,redis,sqlite,docker,git,github,linux,aws,azure" />
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,bash,html,css,react,nextjs,nodejs,express,django,flask,mongodb,mysql,postgres,redis,sqlite,docker,git,github,linux,aws,azure" />
+
 </p>
 
 ---
 
-# 🧠 Core Expertise
+# 🧠 Areas of Expertise
 
-```text
-🛡️ Cyber Security
-🌐 Network Engineering
-💻 Full-Stack Development
-⚙️ DevOps & CI/CD
-☁️ Cloud Infrastructure
-🚀 Open Source Engineering
-🧠 Technical Consulting
-```
+<table>
+<tr>
+<td width="50%">
+
+### Engineering
+
+* Full-Stack Development
+* Backend Engineering
+* API Design
+* System Architecture
+* Technical Consulting
+
+</td>
+
+<td width="50%">
+
+### Infrastructure
+
+* Cyber Security
+* Network Engineering
+* Cloud Computing
+* CI/CD Automation
+* Open Source Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏢 Organizations
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
-### 🟣 Founder
+## 🏢 Organizations
 
-Malvryx CodeLabs
+[![Malvryx CodeLabs](https://img.shields.io/badge/Malvryx%20CodeLabs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Malvryx-CodeLabs)
 
-### 🔥 Member
-
-Hall of Codes
+[![Hall of Codes](https://img.shields.io/badge/Hall%20of%20Codes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hallofcodes)
 
 ---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png">
 
 # 📊 GitHub Analytics
 
@@ -110,30 +124,49 @@ Hall of Codes
 </p>
 
 <p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malvryx&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🔥 Contribution Heatmap
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Malvryx/Malvryx/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malvryx&theme=tokyonight"/>
 </p>
 
----
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Malvryx&theme=react-dark&hide_border=true&area=true&radius=16"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Malvryx/Malvryx/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 💭 Developer Philosophy
 
-```javascript
-while (alive) {
-    learn();
-    build();
-    secure();
-    automate();
-    innovate();
-    shareKnowledge();
-    repeat();
+```rust
+fn main() {
+    loop {
+        learn();
+        build();
+        secure();
+        automate();
+        innovate();
+        share_knowledge();
+
+        if mission_accomplished() {
+            break;
+        }
+    }
 }
 ```
 
@@ -142,38 +175,26 @@ while (alive) {
 # ⚡ Fun Facts
 
 <details>
-<summary>Click to Expand</summary>
+<summary><b>Click to Expand</b></summary>
 
 * 🛡️ Security first, always.
-* 🚀 I enjoy engineering difficult systems.
-* 🌍 I build with a global mindset.
-* ⚙️ I love automation and infrastructure.
-* 📚 I continuously learn and adapt.
-* ☕ Most problems become easier after coffee.
+* 🌍 I engineer with a global mindset.
+* 🚀 I enjoy solving difficult technical challenges.
+* ⚙️ Automation is my productivity multiplier.
+* ☕ Coffee and curiosity power most projects.
+* 📚 Learning never stops.
 
 </details>
 
 ---
 
-# 🎵 Now Playing
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-</p>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 # 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
----
-
-# 💜 Quote of the Day
-
-> "The best engineers don't just write code. They engineer systems that endure."
 
 ---
 
@@ -208,16 +229,16 @@ while (alive) {
 <div align="center">
 
 ```text
-███╗   ███╗ █████╗ ██╗    ██╗   ██╗██████╗ ██╗   ██╗██╗  ██╗
-████╗ ████║██╔══██╗██║    ██║   ██║██╔══██╗╚██╗ ██╔╝╚██╗██╔╝
-██╔████╔██║███████║██║    ██║   ██║██████╔╝ ╚████╔╝  ╚███╔╝
-██║╚██╔╝██║██╔══██║██║    ╚██╗ ██╔╝██╔══██╗  ╚██╔╝   ██╔██╗
-██║ ╚═╝ ██║██║  ██║███████╗╚████╔╝ ██║  ██║   ██║   ██╔╝ ██╗
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+███╗   ███╗ █████╗ ██╗     ██╗   ██╗██████╗ ██╗   ██╗██╗  ██╗
+████╗ ████║██╔══██╗██║     ██║   ██║██╔══██╗╚██╗ ██╔╝╚██╗██╔╝
+██╔████╔██║███████║██║     ██║   ██║██████╔╝ ╚████╔╝  ╚███╔╝
+██║╚██╔╝██║██╔══██║██║     ╚██╗ ██╔╝██╔══██╗  ╚██╔╝   ██╔██╗
+██║ ╚═╝ ██║██║  ██║███████╗ ╚████╔╝ ██║  ██║   ██║   ██╔╝ ██╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
 ### Code • Secure • Engineer • Repeat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
